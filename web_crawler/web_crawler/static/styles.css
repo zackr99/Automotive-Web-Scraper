@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background: url('background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh; /* 100% of the viewport height */
+    margin: 0; /* Remove default margin */
+}
+#button {
+    background-color: black; /* Black background */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    cursor: pointer; /* Show pointer cursor on hover */
+}
+/* Styling for the button when hovered over */
+#button:hover {
+    background-color: orange; /* Orange background when hovered over */
+    color: black; /* Black text color when hovered over */
+}

@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background: url('background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh; /* 100% of the viewport height */
+    margin: 0; /* Remove default margin */
+} 

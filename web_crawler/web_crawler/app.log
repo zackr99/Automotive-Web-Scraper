@@ -1,0 +1,71 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-059-355
+INFO:werkzeug: * Detected change in '/Users/zackchand/Documents/Information Retrieval /Final Project /web_crawler/web_crawler/backend.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-059-355
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:38:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:39:56] "[32mPOST /search HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:39:56] "GET /pdf_list HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/zackchand/Documents/Information Retrieval /Final Project /web_crawler/web_crawler/backend.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-059-355
+INFO:werkzeug: * Detected change in '/Users/zackchand/Documents/Information Retrieval /Final Project /web_crawler/web_crawler/backend.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-059-355
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-059-355
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:41:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:43:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:44:10] "[32mPOST /search HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:44:10] "GET /pdf_list HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-059-355
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:45:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:46:30] "[32mPOST /search HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:46:30] "[35m[1mGET /pdf_list HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:46:30] "GET /pdf_list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:46:30] "GET /pdf_list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:46:30] "GET /pdf_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:46:30] "[36mGET /pdf_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-059-355
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:50:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:51:04] "[32mPOST /search HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:51:04] "[35m[1mGET /pdf_list HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:51:04] "[36mGET /pdf_list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:51:04] "[36mGET /pdf_list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:51:04] "[36mGET /pdf_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-059-355
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:52:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:52:47] "[32mPOST /search HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:52:47] "GET /pdf_list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:52:50] "GET /pdf_list?filename=ac6dfa79b4daca0bdacbdc8206dc8149232eb8a3.pdf&filename=2ff02e2bbc3343518ef4a95c6fea16efed5a6ccb.pdf&filename=31ebffb2af47cdb903d4dbb1e6ec1bf5b6a0969c.pdf&filename=e0e12c516da79a703797fe4277d92c6d0709527e.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:52:51] "GET /pdf_list?filename=ac6dfa79b4daca0bdacbdc8206dc8149232eb8a3.pdf&filename=2ff02e2bbc3343518ef4a95c6fea16efed5a6ccb.pdf&filename=31ebffb2af47cdb903d4dbb1e6ec1bf5b6a0969c.pdf&filename=e0e12c516da79a703797fe4277d92c6d0709527e.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:52:53] "GET /pdf_list?filename=ac6dfa79b4daca0bdacbdc8206dc8149232eb8a3.pdf&filename=2ff02e2bbc3343518ef4a95c6fea16efed5a6ccb.pdf&filename=31ebffb2af47cdb903d4dbb1e6ec1bf5b6a0969c.pdf&filename=e0e12c516da79a703797fe4277d92c6d0709527e.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:52:54] "GET /pdf_list?filename=ac6dfa79b4daca0bdacbdc8206dc8149232eb8a3.pdf&filename=2ff02e2bbc3343518ef4a95c6fea16efed5a6ccb.pdf&filename=31ebffb2af47cdb903d4dbb1e6ec1bf5b6a0969c.pdf&filename=e0e12c516da79a703797fe4277d92c6d0709527e.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Mar/2024 18:53:03] "GET /pdf_list?filename=ac6dfa79b4daca0bdacbdc8206dc8149232eb8a3.pdf&filename=2ff02e2bbc3343518ef4a95c6fea16efed5a6ccb.pdf&filename=31ebffb2af47cdb903d4dbb1e6ec1bf5b6a0969c.pdf&filename=e0e12c516da79a703797fe4277d92c6d0709527e.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/zackchand/Documents/Information Retrieval /Final Project /web_crawler/web_crawler/backend.py', reloading
+INFO:werkzeug: * Restarting with stat

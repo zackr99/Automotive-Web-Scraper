@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search and Download PDFs</title>
+</head>
+<body>
+    <h1>Search and Download PDFs</h1>
+    <div class="container">
+    <form action="/search" method="post">
+        <label for="search_term" id="text_box">Search Term:</label>
+        <input type="text" id="search_term" name="search_term" required>
+        <button id="button" type="submit">Search</button>
+    </div>
+    </form>
+</body>
+</html>

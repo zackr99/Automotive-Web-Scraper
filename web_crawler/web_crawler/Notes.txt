@@ -1,0 +1,15 @@
+- TODO:
+1. Modify the search so it takes the query and searches for it(currently only searching bugatti) - done
+2. Add some styling (CSS) - done
+3. Change the name of the files so that it displays the car rather then a random hex string - done
+4. (Maybe) when the index page is served. Make sure the files in the full directory are deleted 
+5. Create the slide show 
+ - Explain how irritating it is to find brochere or find inforamation on a car
+ - Explain the motivation behind why I choose this 
+ - Explain why I changed it from my original idea
+ - Show the crawler and explain the crawler
+ - Show the backend and how it interacts with the crawler
+ - Shoe the front end and how it interacts with the backend 
+ - Add a slide saying Demonstration of the crawler
+ - Show the results from the crawler 
+ - What could I have done differently if I had more time 
